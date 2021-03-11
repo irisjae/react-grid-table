@@ -83,6 +83,7 @@
         "webpack-dev-server": "^3.11.0"
     },
     "dependencies": {
+        "core-js": "^3.9.1",
         "react-sortable-hoc": "^1.11.0",
         "react-virtual": "^2.3.0"
     }
